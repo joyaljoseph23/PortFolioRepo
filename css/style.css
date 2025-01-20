@@ -1,0 +1,15 @@
+@import url(./fonts.css);
+.mr-auto{
+    margin-right:45px;
+}
+
+.header-area .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5rem;
+}
+.header-area .main-menu .navbar .navbar-brand .nav-link{
+  font-family: var(--roboto);
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7 rem;
+  color: black;
+}
