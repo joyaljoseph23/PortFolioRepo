@@ -2,14 +2,28 @@
 .mr-auto{
     margin-right:45px;
 }
-
 .header-area .main-menu .navbar .navbar-brand{
     padding: 0 2rem 0 5rem;
 }
-.header-area .main-menu .navbar .navbar-brand .nav-link{
+.header-area {
   font-family: var(--roboto);
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 500;
   padding: 1.7 rem;
-  color: black;
+  color: rgba(23,23,23,1);
+}
+.nav-link{
+    color:rgba(255,255,255,0.55)
+}
+.nav-link:hover{
+    color: white;
+}
+#id{
+    color: yellow;
+}
+.logodetails{
+    color:yellow
+}
+body{
+    background-color: rgba(23,23,23,1);
 }
