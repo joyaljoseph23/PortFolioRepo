@@ -49,3 +49,19 @@ body{
 {
 padding-top:8.5rem !important;
 }
+#contact{
+    cursor: pointer;
+    transition: 150ms ease;
+    animation-duration: 3s;
+    animation-name: spin;
+}
+
+@keyframes spin{
+0%{
+
+}
+100%{
+    transform: rotate(360deg);
+    
+}
+}
