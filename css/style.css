@@ -27,3 +27,25 @@
 body{
     background-color: rgba(23,23,23,1);
 }
+.welcometxt{
+    color: #EAB308;
+    font-weight: 600;
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+#heroname
+{
+    color: #FFFFFF;
+}
+#description
+{
+    color: #737373;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.py-lg-18
+{
+padding-top:8.5rem !important;
+}
