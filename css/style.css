@@ -91,14 +91,9 @@ padding-top:8.5rem !important;
 }
 .bi-megaphone
 {
-    color: #EAB308;
+    color: #EAB308 !important;
    
 }
-.icon{
-    width: 200% !important;
-    height: 200% !important;
-    
-}
 .card{
-    background-color:#737373 ;
+    background-color:#525252 ;
 }
