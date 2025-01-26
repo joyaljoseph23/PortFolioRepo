@@ -114,3 +114,9 @@ padding-top:8.5rem !important;
     color: #737373;
     border: #262626;
 }
+.input{
+    background-color: #0a0a0a;  
+}
+.textarea{
+    background-color: #0a0a0a;
+}
