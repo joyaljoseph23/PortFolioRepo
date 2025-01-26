@@ -49,7 +49,7 @@ body{
 {
 padding-top:8.5rem !important;
 }
-#contact{
+#contactbtn{
     cursor: pointer;
     transition: 150ms ease;
     animation-duration: 3s;
@@ -89,6 +89,9 @@ padding-top:8.5rem !important;
     font-weight: 400;
     font-size: 1.1rem;
 }
+.contactdetails{
+    display: block;
+}
 .bi-megaphone
 {
     color: #EAB308 !important;
@@ -96,9 +99,18 @@ padding-top:8.5rem !important;
 }
 .card{
     background-color:#525252 ;
+
 }
 #portfoliotxt{
     color: #737373;
     font-weight: 500;
     font-size: 1.1rem;
+}
+.card-experience{
+   /* --background-color:  #262626; */
+}
+.form-control{
+    background-color: #0a0a0a;
+    color: #737373;
+    border: #262626;
 }
