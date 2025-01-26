@@ -83,7 +83,7 @@ padding-top:8.5rem !important;
     --bs-bg-opacity: 1;
     background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
 }
-.servicedetails
+.details
 {
     color: #737373;
     font-weight: 400;
@@ -96,4 +96,9 @@ padding-top:8.5rem !important;
 }
 .card{
     background-color:#525252 ;
+}
+#portfoliotxt{
+    color: #737373;
+    font-weight: 500;
+    font-size: 1.1rem;
 }
